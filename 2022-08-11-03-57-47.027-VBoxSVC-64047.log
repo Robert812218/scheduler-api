@@ -1,0 +1,7 @@
+Log created: 2022-08-11T03:57:47.279998000Z
+Process ID:  64047 (0xfa2f)
+Parent PID:  2155 (0x86b)
+Executable:  /usr/lib/virtualbox/VBoxSVC
+Arg[0]: /usr/lib/virtualbox/VBoxSVC
+Arg[1]: --auto-shutdown
+AddRef: illegal refcnt=3221225469 state=2
